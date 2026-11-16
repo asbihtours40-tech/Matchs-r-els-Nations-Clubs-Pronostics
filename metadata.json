@@ -1,0 +1,6 @@
+{
+  "name": "PronoStat",
+  "description": "Plateforme d'analyse statistique et de pronostics football basée sur les modèles xG et la loi de Poisson.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
